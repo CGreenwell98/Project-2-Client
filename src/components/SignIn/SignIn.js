@@ -8,7 +8,7 @@ function SignIn() {
       <div className="page-left">
       <SignInForm />
       </div>
-      <div className="page-right">Hello</div>
+      <div className="page-right"></div>
       </div>
     );
   }
